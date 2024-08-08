@@ -5,4 +5,4 @@ seaborn==0.12.2
 requests==2.31.0
 altair==4.2.0
 plotly==5.14.1
-
+pillow==9.4.0
