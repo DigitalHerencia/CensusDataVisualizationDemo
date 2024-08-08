@@ -20,17 +20,17 @@ This project visualizes data from the Current Population Survey (CPS) using Stre
 ## Features
 
 - **Age Distribution by Employment Status**
-![alt text](data/AgeDistributionbyEmploymentStatus.png)
+![AgeDistributionbyEmploymentStatus](https://github.com/DigitalHerencia/CensusDataVisualizationDemo/blob/main/AgeDistributionbyEmploymentStatus.png)
 
 ---
 
 - **Education Level by Sex**
-  ![Education Level by Sex](data/EducationLevelbySex.png)
+![Education Level by Sex](https://github.com/DigitalHerencia/CensusDataVisualizationDemo/blob/main/EducationLevelbySex.png)
 
 ---
 
 - **Employment Status by Age and Sex**
-![alt text](data/EmploymentStatusbyAgeandSex.png)
+![EmploymentStatusbyAgeandSex](https://github.com/DigitalHerencia/CensusDataVisualizationDemo/blob/main/EmploymentStatusbyAgeandSex.png)
 
 ## Installation
 
