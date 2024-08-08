@@ -24,7 +24,7 @@ This project visualizes data from the Current Population Survey (CPS) using Stre
 ┣ 📜headers.py  
 ┗ 📜requirements.txt  
 📦data  
-┣ 📜2024_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt  
+┗ 📜2024_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt  
 
 ## Features
 
