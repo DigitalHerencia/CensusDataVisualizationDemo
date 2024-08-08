@@ -57,7 +57,7 @@ cps_data = preprocess_cps_data(cps_data)
 
 # Streamlit UI
 st.title('US Census CPS Data Visualization')
-st.write('Visualizations based on the CPS Basic Monthly Data.')
+st.write('Visualizations based on the July 2024 Current Population Survey.')
 
 # Visualization 1: Age Distribution by Employment Status
 st.subheader('Age Distribution by Employment Status')
